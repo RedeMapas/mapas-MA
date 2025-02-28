@@ -25,6 +25,7 @@ services:
       - ../plugins/Accessibility:/var/www/src/plugins/Accessibility
       - ../plugins/AdminLoginAsUser:/var/www/src/plugins/AdminLoginAsUser
       - ../plugins/Analytics:/var/www/src/plugins/Analytics
+      - ../plugins/MapasBlame:/var/www/src/plugins/MapasBlame
 
     environment:
       - PENDING_PCACHE_RECREATION_INTERVAL=10

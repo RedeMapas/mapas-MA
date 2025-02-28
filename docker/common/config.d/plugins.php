@@ -7,5 +7,6 @@ return [
         'Accessibility' => ['namespace' => 'Accessibility'],
         'AdminLoginAsUser' => ['namespace' => 'AdminLoginAsUser'],
         'Analytics' => ['namespace' => 'Analytics'],
+        'MapasBlame' => ['namespace' => 'MapasBlame'],
     ]
 ];
