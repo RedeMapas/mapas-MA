@@ -6,5 +6,6 @@ return [
         'SamplePlugin' => ['namespace' => 'SamplePlugin'],
         'Accessibility' => ['namespace' => 'Accessibility'],
         'AdminLoginAsUser' => ['namespace' => 'AdminLoginAsUser'],
+        'Analytics' => ['namespace' => 'Analytics'],
     ]
 ];
